@@ -8,6 +8,6 @@ setup(
     author_email = 'soumasish@gmail.com',
     url = 'https://github.com/soumasish/redvelvet',
     license = 'Apache 2.0',
-    packages = ['redvelvet'],
+    packages = ['graph', 'heap', 'trie'],
     entry_points = {},
 )
