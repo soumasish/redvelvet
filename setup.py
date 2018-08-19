@@ -1,12 +1,12 @@
 from distutils.core import setup
 
-with open('README.md') as file:
+with open('README.rst') as file:
     long_description = file.read()
 
 
 setup(
     name = 'redvelvet',
-    version = '0.0.4',
+    version = '0.0.5',
     description = 'A package for some common data types',
     long_description=long_description,
     author = 'soumasish',
