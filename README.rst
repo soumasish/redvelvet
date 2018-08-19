@@ -12,6 +12,8 @@ A fun and friendly implementation of some interesting data types. The data types
 
 * Trie
 
+* StringBuilder
+
 
 Installation
 ============

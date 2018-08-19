@@ -6,6 +6,7 @@ A fun and friendly implementation of some interesting data types. The data types
 * MinHeap
 * MaxHeap
 * Trie
+* StringBuilder
 
 
 ## Installation
