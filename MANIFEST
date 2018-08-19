@@ -6,7 +6,6 @@ redvelvet/graph/errors.py
 redvelvet/graph/graph.py
 redvelvet/graph/node.py
 redvelvet/heap/__init__.py
-redvelvet/heap/max_heap.py
-redvelvet/heap/min_heap.py
+redvelvet/heap/heap.py
 redvelvet/trie/__init__.py
 redvelvet/trie/trie.py
