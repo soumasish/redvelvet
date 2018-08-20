@@ -3,10 +3,9 @@ from distutils.core import setup
 with open('README.rst') as file:
     long_description = file.read()
 
-
 setup(
     name = 'redvelvet',
-    version = '0.1.1',
+    version = '0.1.2',
     description = 'Some not so common data types, white hot, ready to use!',
     long_description=long_description,
     author = 'soumasish',
