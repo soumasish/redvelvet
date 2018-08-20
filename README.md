@@ -7,6 +7,9 @@ A fun and friendly implementation of some interesting data types. The data types
 * MaxHeap
 * Trie
 * StringBuilder
+* Binary Search Trees
+    * Red Black Tree
+    * AVL Tree
 
 
 ## Installation

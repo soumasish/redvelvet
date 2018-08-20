@@ -14,6 +14,11 @@ A fun and friendly implementation of some interesting data types. The data types
 
 * StringBuilder
 
+* Binary Search Tree
+    * Red Black Tree
+
+    * AVL Tree
+
 
 Installation
 ============
