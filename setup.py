@@ -5,7 +5,7 @@ with open('README.rst') as file:
 
 setup(
     name = 'redvelvet',
-    version = '0.1.3',
+    version = '0.1.4',
     description = 'Some not so common data types, white hot, ready to use!',
     long_description=long_description,
     author = 'soumasish',

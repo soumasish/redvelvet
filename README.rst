@@ -19,6 +19,8 @@ A fun and friendly implementation of some interesting data types. The data types
 
     * AVL Tree
 
+* MinMaxStack
+
 
 Installation
 ============
